@@ -1,0 +1,5 @@
+{
+  "name": "PromptGuard - 提示词鲁棒性测试工具",
+  "description": "一个开发者工具，用于测试 LLM 提示词的鲁棒性。它自动生成提示词的语义变体，通过 Gemini 执行，并使用 LLM-as-a-Judge 方法评估输出的一致性。",
+  "requestFramePermissions": []
+}
