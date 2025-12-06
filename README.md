@@ -181,3 +181,8 @@ npm run dev
 ## ❤️ 贡献者 / Contributing
 
 欢迎 PR、Issue，也欢迎你提交新的测试方法与鲁棒性指标！
+
+## ⭐ Star Support
+
+如果你觉得这个项目对你有帮助，请给仓库点一个 ⭐ Star！
+你的鼓励是我继续优化此项目的最大动力 😊
